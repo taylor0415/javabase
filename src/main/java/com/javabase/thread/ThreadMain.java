@@ -15,7 +15,7 @@ public class ThreadMain {
         new Thread(aThread).start();
         new Thread(bThread).start();
 
-
+        System.out.println("test");
 
     }
 }
